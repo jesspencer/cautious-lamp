@@ -7,7 +7,7 @@ This is a website using python. Specifically, this website utilizes the python f
 * - lpthw.web
 
 ## Questions? Comments!
-If you have comments for how to make this project better do a pull [request] (https://github.com/jesspencer/cautious-lamp/pulls)
+If you have comments for how to make this project better do a [pull request], (https://github.com/jesspencer/cautious-lamp/pulls)
 
 ## CREATOR
 **Jessica Spencer**
