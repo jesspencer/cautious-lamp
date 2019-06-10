@@ -6,10 +6,10 @@ urls = (
 
 app = web.application(urls,globals())
 
-class index:
+class Index(object):
     def GET(self):
         greeting = "Hello World"
-        return greeting
+        return render.index(greeting = greeting)
 
 
 
